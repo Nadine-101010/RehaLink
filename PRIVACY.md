@@ -3,7 +3,7 @@
 RehaLink is a research application intended for use in a clinical study by authorized healthcare professionals and study participants only.
 
 ## What data the app processes
-RehaLink processes research and health-related data entered by clinicians or study staff for enrolled patients. This may include information such as clinical measurements, observations, and study identifiers.
+RehaLink processes research and health-related data entered by clinicians or study staff for enrolled patients. This may include information such as clinical measurements, and study identifiers.
 
 No data is collected for advertising, marketing, or analytics purposes.
 
